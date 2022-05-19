@@ -1,6 +1,7 @@
 # web portifolio
 A vanilla html, css, and javascript portfolio.
-
+<h2>LINK</h2>
+https://a-shazli.github.io/web_portifolio/
 <h2>Main page</h2>
 <img src=https://user-images.githubusercontent.com/61319952/159993818-18dab2fc-c816-4ea4-ae44-4fac015b7e51.png class="img-responsive" alt=""> </div>
 <hr class="rounded">
